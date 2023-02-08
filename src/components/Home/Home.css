@@ -1,7 +1,13 @@
-.bg-image{
+/* .bg-image{
   background-image: url(https://www.indiafilings.com/learn/wp-content/uploads/2015/10/Real-Estate-Agent-Business-India.jpg);
   background-size: cover;
   height: 38rem;
   background-position: 0 0;
   background-attachment: fixed;
+} */
+.bg-image{
+background-image: url(https://www.indiafilings.com/learn/wp-content/uploads/2015/10/Real-Estate-Agent-Business-India.jpg);
+background-size: cover;
+height: 38rem;
+
 }

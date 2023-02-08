@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/home-improvement/wp-content/uploads/2022/07/download-23.jpg",
+    "category": "Classic Home",
+    "price": 1232,
+    "description": "",
+    "size": 1234,
+    "bed": 2,
+    "bath": 2,
+    "location": "NY CITY, USA"
+  },
+  {
+    "id": 2,
+    "img": "https://www.bproperty.com/blog/wp-content/uploads/webaliser-_TPTXZd9mOo-unsplash.jpg",
+    "category": "Semi Duplex",
+    "price": 1022,
+    "description": "",
+    "size": 1287,
+    "bed": 3,
+    "bath": 2,
+    "location": "LISBON, PORTUGAL"
+  },
+  {
+    "id": 3,
+    "img": "https://ap.rdcpix.com/a0fd81e5f3fa2e068e6b11192b722c38l-m2993741320od-w480_h360_x2.jpg",
+    "category": "Small House",
+    "price": 899,
+    "description": "",
+    "size": 1024,
+    "bed": 2,
+    "bath": 2,
+    "location": "DHAKA, BANGLADESH"
+  },
+  {
+    "id": 4,
+    "img": "https://www.nobroker.in/blog/wp-content/uploads/2021/04/Duplex-House-1.jpg",
+    "category": "Luxury House",
+    "price": 1460,
+    "description": "",
+    "size": 1654,
+    "bed": 4,
+    "bath": 3,
+    "location": "SYDNEY, AUSTRALIA"
+  },
+  {
+    "id": 5,
+    "img": "https://images.adsttc.com/media/images/62d5/cf8e/d84d/ff1b/578a/774b/large_jpg/duplex-moreno-impulsar-arquitectura_1.jpg?1658179533",
+    "category": "Duplex",
+    "price": 1732,
+    "description": "",
+    "size": 2690,
+    "bed": 2,
+    "bath": 2,
+    "location": "CAPE TOWN, RSA"
+  },
+  {
+    "id": 6,
+    "img": "https://thumbs.dreamstime.com/b/victorian-farm-house-wheat-field-14312538.jpg",
+    "category": "Farm House",
+    "price": 1232,
+    "description": "",
+    "size": 1234,
+    "bed": 2,
+    "bath": 2,
+    "location": "ISTAMBUL, TURKEY"
+  }
+]
