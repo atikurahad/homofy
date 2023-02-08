@@ -1,11 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './Home/Home';
 
 function App() {
   return (
-    <div className="App">
+    <>
       <h1> Surprise Surprise Mother Fucker The King Is back</h1>
-    </div>
+
+      <Home />
+    </>
   );
 }
 
