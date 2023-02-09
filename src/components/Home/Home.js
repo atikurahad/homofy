@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <div className="bg-image bg-no-repeat grid sm:grid-cols-1">
-        <p className=" text-center text-4xl font-semibold mx-auto my-auto text-[#660066] ">
+        <p className=" text-center text-6xl font-bold font-mono mx-auto my-auto text-[smokewhite] ">
           We Are Provide Your Residance Most Popular City <br /> In The World
         </p>
       </div>
