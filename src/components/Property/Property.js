@@ -5,7 +5,7 @@ const Property = (props) => {
   return (
     <>
       <div>
-        <div className=" h-[30rem] w-[25rem] border-2 border-gray-200	mx-auto p-5 m-5">
+        <div className=" h-[30rem] w-[25rem] border-2 border-gray-200	mx-auto p-5 m-5 bg-gray-100">
           <img src={img} alt="PropertyImage" className="h-[15rem] w-full p-5" />
           <div className="flex justify-between ">
             <p className="text-2xl  text-black font-black font-mono p-2">
@@ -34,7 +34,7 @@ const Property = (props) => {
               </svg>
             </span>
 
-            <p className="text-xl">{location}</p>
+            <p className="text-xl text-rose-700 font-semibold">{location}</p>
           </div>
           <div className="flex justify-between border-2 border-gray-400 p-2">
             <p>
