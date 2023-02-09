@@ -36,11 +36,23 @@ export default function Home() {
             alt=""
           />
         </div>
-        <div>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis,
-            at.
+        <div className="p-12 mt-2">
+          <p className="text-4xl text-white font-semibold">
+            Subscribe Newsletter
           </p>
+          <p className="text-2xl text-white mt-2">
+            Get started by choosing from one of our pre-built page templates to
+            showcase your properties
+          </p>
+          <input
+            className="bg-transparent	w-full h-[2rem] mt-3 "
+            placeholder="Enter Your Email"
+            type="email"
+            name="Email"
+            id=""
+          />{" "}
+          <hr />
+          <button className="bg-yellow-500 mt-5 p-4 hover:bg-slate-200 hover:text-black hover:font-bold">Subscribe</button>
         </div>
       </div>
     </>
